@@ -1,5 +1,20 @@
 ### Bienvenido a mi perfil 🤙
 
-Mi nombre es Agustin. Soy un Software Developer 🚀. Utilizo herramientas Frontend como Backend
+Mi nombre es Agustin. Soy un Software Developer 🚀
 
-![](https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif)
+<img src="https://github.com/mendezag/mendezag/blob/main/developer.gif" width="400" height = "400">
+
+#### Las herramientas que utilizo con mayor frecuencia son:
+
+* JavaScrip 
+* Java
+* NodeJs
+* Express
+* MongoDb
+* Firebase 
+* Sql
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+-
