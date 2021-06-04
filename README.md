@@ -7,12 +7,13 @@ Mi nombre es Agustin. Soy un Software Developer 🚀
 #### Las herramientas que utilizo con mayor frecuencia son:
 
 * JavaScrip 
-* Java
+* React Native
 * NodeJs
-* Express
 * MongoDb
 * Firebase 
-* Sql
+* Java
+
+
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
