@@ -8,7 +8,7 @@
 
 - :earth_americas: Buenos Aires - Argentina.
 - :video_game: Fan de los videojuegos.
-- 👨‍🍳: Aveces cocino rico.
+- 👨‍🍳: A veces cocino rico.
 
 ## Lenguajes & Frameworks
 
