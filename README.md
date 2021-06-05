@@ -2,7 +2,7 @@
 
 Mi nombre es Agustin. Soy un Software Developer 🚀 de Argentina 🇦🇷 
 
-<img src="https://github.com/mendezag/mendezag/blob/main/developer.gif" width="700" height = "280">
+<img src="https://github.com/mendezag/mendezag/blob/main/developer.gif" width="450" height = "200">
 
 #### Las herramientas que utilizo con mayor frecuencia son:
 
