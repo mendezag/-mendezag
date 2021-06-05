@@ -1,4 +1,3 @@
-
 # Hola! Soy Agustin🤙 
 <img align="right" src="https://github.com/mendezag/mendezag/blob/main/developer.gif" width="300" height = "300">
 
