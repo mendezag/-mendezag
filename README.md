@@ -1,4 +1,4 @@
-# Hola! Soy Agustin🤙 
+# Hi! i'm Agustin🤙 
 <img align="right" src="https://github.com/mendezag/mendezag/blob/main/developer.gif" width="300" height = "300">
 
 ####  Desarrollador de software :robot:.
